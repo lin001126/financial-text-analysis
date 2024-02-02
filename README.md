@@ -9,7 +9,7 @@ This project is centered on data preprocessing and analysis, aimed at refining a
 
 
 
-**Sentiment Polarity Analysis **  
+**Sentiment Polarity Analysis**  
 Selected and tested model to analyze the sentiment polarity of each news.
 
 
